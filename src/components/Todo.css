@@ -1,0 +1,5 @@
+.list.completed {
+    background-color: red;
+    width: 10%;
+    text-decoration: line-through;
+}
